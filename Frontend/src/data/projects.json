@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Chess Game",
+    "imageSrc": "projects/chess.png",
+    "description": "This is the Project for the frontend to play the chess  game",
+    "skills": ["React", "CSS","JavaScript"],
+    "demo": "https://chess-game-jo8fbsz0b-lavish-patidars-projects.vercel.app/",
+    "source": "https://github.com/Lavish-Patidar/Chess-game.git"
+  },
+  {
+    "title": "Weather app ",
+    "imageSrc": "projects/weather.png",
+    "description": "This is Weather app . Created uasing HTML, CSS, JavaScript.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://weather-mf2dhtg5u-lavish-patidars-projects.vercel.app/",
+    "source": "https://github.com/Lavish-Patidar/Weather-App.git"
+  },
+  {
+    "title": "Todos ",
+    "imageSrc": "projects/todos.png",
+    "description": "This is a todos list project in react and store the data into a local storage.",
+    "skills": ["React", "CSS","JavaScript"],
+    "demo": "https://react-todos-ashy-sigma.vercel.app/",
+    "source": "https://github.com/Lavish-Patidar/React_todos.git"
+  }
+]
